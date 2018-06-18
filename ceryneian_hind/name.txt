@@ -1,9 +1,0 @@
-sding
-minakim
-astrole
-rzarate
-xxx
-below has a empty line, see if it skips using 'next'
-
-hjo ksonu
-mray\nzfeng
